@@ -1,8 +1,4 @@
 README
-
-Keshav Krishna
-2019csb1224
-cs303
 ==========================================================
 
 1. What does this program do
